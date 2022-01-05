@@ -15,7 +15,7 @@ About Me:
 - 👯 I’m looking to collaborate on Projects
 - 👨‍🎓 Currently persuing B.Tech CSE **@MSIT**
 - 📫 How to reach me: drop a mail to [me](mailto:naman12k19@gmail.com)
-- ⚡ Fun fact: I sometime make memes also😂
+- ⚡ Fun fact: I sometimes make memes also😂
 
 <hr>
 
