@@ -8,8 +8,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NamanKaushik19&label=Profile%20views&color=0e75b6&style=flat" alt="NamanKaushik19" /> </p>
 
-Here are some ideas to get you started:
+About Me:
 
+- 🔭 Beginner!
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Projects
 - 👨‍🎓 Currently persuing B.Tech CSE **@MSIT**
